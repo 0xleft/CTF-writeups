@@ -10,14 +10,9 @@
 
 ## Challenge writeups:
 
-During CTF
-
 * [an-inaccessible-admin-panel](an-inaccessible-admin-panel.md) - 202 points 
 * [rev/keygen](keygen.md) - 309 points
 * [rev/revrevrev](revrevrev.md) - 343 points
 * [rev/micrurus-fulvius](micrurus-fulvius.md) - 446 points
-* [crypto/trios](trios.md) - 424
 
-After CTF
-
-* [algo/bank](bank.md) (1 minute after the end :D) - 454 points
+![hsctf.png](../assets/hsctf.png)
